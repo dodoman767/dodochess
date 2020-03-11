@@ -112,6 +112,8 @@ class Board {
             return true;
           }
       }
+      
+      
     }
     for (int x = 0; x < boardSizeX; x++) {
        for (int y = 0; y < boardSizeY; y++) {
